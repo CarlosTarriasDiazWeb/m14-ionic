@@ -5,7 +5,7 @@
       <ion-title>Hello Header</ion-title>
     </ion-toolbar>
   </ion-header>
-  <ion-content class="in-padding">
+  <ion-content class="ion-padding">
     <h1>Hello Content</h1>
   </ion-content>
   <ion-footer>
