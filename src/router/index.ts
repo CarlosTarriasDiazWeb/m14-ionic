@@ -30,9 +30,7 @@ const routes: Array<RouteRecordRaw> = [
       {
         path: 'library',
         component: () => import('../views/LibraryPage.vue')
-
-      }
-
+      },
     ]
   }
 ]
